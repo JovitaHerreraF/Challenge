@@ -15,7 +15,7 @@
 4. No se valida el tiempo de respuesta de la API.
 5. El locator `.mw-content-ltr.mw-parser-output > p:nth-of-type(4)` para imprimir el primer párrafo de "Conception and design" solamente sirve para Pikachu, no así para los demás, por ejemplo, Bulbasaur.
 ![WikipediaLocator](image/notes/WikipediaLocator.png)
-6. Si bien el proyecto es acotado, so se aplicó POM.
+6. Si bien el proyecto es acotado, no se aplicó POM.
 7. No se hace uso de las configuraciones de Cypress para especificar baseUrl.
 
 ## Otros
